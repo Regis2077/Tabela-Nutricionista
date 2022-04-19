@@ -1,5 +1,4 @@
 var titulo = document.querySelector(".titulo");
-titulo.textContent = "Academia monstro";
 
 var pacientes = document.querySelectorAll(".paciente");
 
